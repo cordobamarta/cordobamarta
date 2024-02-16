@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @cordobamarta
 - 👀 I’m interested in video games and books
 - 🌱 I’m currently learning DAM
-- 😄 Pronouns: she/her
 
 
 <!---
